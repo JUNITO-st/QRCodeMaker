@@ -1,9 +1,9 @@
-概要
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-Androidアプリ
-言語：Kotlin
-内容：QRコードを作成するAndroidアプリです。一度作成したURLは、Kotlinデータベース（Room）で保存をすることができます。
-　　　作成するにあたり、AndroidのRoomWordsSampleをもとに作成しました。
+概要<br>
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br>
+Androidアプリ<br>
+言語：Kotlin<br>
+内容：QRコードを作成するAndroidアプリです。一度作成したURLは、Kotlinデータベース（Room）で保存をすることができます。<br>
+　　　作成するにあたり、AndroidのRoomWordsSampleをもとに作成しました。<br>
 
 
 RoomWordsSample
